@@ -2,7 +2,7 @@ import csv
 import os
 from openai import OpenAI
 
-client = OpenAI(api_key="sk-proj-BnsnZ8AxBfQA3eZJrHCLT3BlbkFJQ2yjUYG7dAENorvNI7AL")
+client = OpenAI(api_key="")
 import os
 
 # Load your OpenAI API key from an environment variable or directly set it here
