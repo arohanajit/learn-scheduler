@@ -1,3 +1,45 @@
 credentials.json
 api.json
 .env
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Packages
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+lib/
+lib64/
+parts/
+var/
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+env/
+.venv/
+ENV/
+env.bak/
+env_env/
+
+# My local virtual environment
+.venv/
+
+# Local pytest cache
+.cache
+
+# Credentials
+token.pickle
+token.json
+credentials.json
+
